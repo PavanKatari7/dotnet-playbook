@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/examples/" />
+  <Folder Name="/examples/01-csharp-foundations/">
+    <Project Path="examples/01-csharp-foundations/CSharpFoundations/CSharpFoundations.csproj" />
+  </Folder>
+</Solution>
